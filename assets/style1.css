@@ -1,0 +1,25 @@
+
+
+.container {
+	height: auto;
+	width: 100%;
+}
+
+.jumbotron {
+	opacity: 0.8;
+}
+
+.panel {
+	opacity: 0.8;
+}
+
+.panel > .panel-heading {
+    background-color: grey;
+    color: white;
+}
+
+#addTrainBtn {
+    background-color: black;
+    color: white;
+    border: none;
+}
